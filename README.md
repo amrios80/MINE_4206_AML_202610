@@ -15,6 +15,7 @@ A repo for "Análisis de Machine Learning" at Universidad de los Andes. You'll f
 | 2   | [Lab 1 S2: Polinomial Regression](labs/lab_1/) | 1 hour |
 | 3   | [Lab 2 S1: Logistic Regression](labs/lab_2/) | 2 hours |
 | 4   | [Lab 2 S2: SVM](labs/lab_2/) | 2 hours |
+| 4   | [Lab 2 S3: Random Forest](labs/lab_2/) | 2 hours |
 | 5   | [Lab 3 S1: Neural Networks](labs/lab_3/) | 2 hours |
 | 6   | [Lab 3 S2: Naive Bayes](labs/lab_3/) | 3 hours |
 | 7   | [Lab 4 S1: Streamlit deployment](labs/lab_4/) | 2 hours |
