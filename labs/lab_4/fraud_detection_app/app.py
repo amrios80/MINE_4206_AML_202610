@@ -50,8 +50,10 @@ def transform_num_cols(df):
 ## LOAD MODEL
 @st.cache_resource
 def load_model():
-    # Ensure your model file is in the same directory
-    return joblib.load('fraud_classificator_joblib.joblib')
+  # Ensure your model file is in the same directory
+  base_path = os.path.dirname(__file__)
+  model_path = os.path.join(base_path, 'fraud_classificator_joblib.joblib')
+  return joblib.load(model_path)
 
 model = load_model()
 
