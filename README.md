@@ -32,7 +32,6 @@ A repo for "Análisis de Machine Learning" at Universidad de los Andes. You'll f
 | 2   | [Assignment 2: Classifier problem](assignments/assignment_2/) | 
 | 3   | [Assignment 3: Classifier problem with complex data](assignments/assignment_3/) | 
 | 4   | [Assignment 4: Clustering problem](assignments/assignment_4/) |
-| 5   | [Assignment 5: AutoML application](assignments/assignment_5/) | 
 
 ## Prerequisites
 
